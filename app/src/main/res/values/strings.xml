@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SynchronousProcessingSample</string>
+    <string name="hello">HelloWorld!!</string>
+</resources>
